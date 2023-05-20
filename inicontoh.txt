@@ -1,0 +1,1 @@
+{'nama': 'Jokowi', 'usia': 56, 'jenis kelamin': 'Laki-laki', 'Agama': 'Islam', 'istri': 'Iriana', 'masa jabatan': 5, 'nama partai': 'PDIP', 'jabatan': 'Petugas Partai'}

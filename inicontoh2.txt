@@ -1,0 +1,1 @@
+{"nama partai": "PDIP", "jabatan": "Petugas Partai"}
