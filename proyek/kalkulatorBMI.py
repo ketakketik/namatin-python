@@ -1,3 +1,8 @@
+'''
+Program akan meminta pengguna memasukkan berat badan dan tinggi badan mereka, 
+dan kemudian menghitung dan menampilkan BMI mereka. Anda juga dapat menyertakan 
+pesan yang memberi tahu pengguna apakah mereka berada di kategori berat badan yang sehat atau tidak.
+'''
 # float mengkonversi bilangan bulat ke float
 berat = float(input("Masukan berat kamu dalam kg: "))
 tinggi = float(input("Masukan tinggi kamu dalam cm: "))
